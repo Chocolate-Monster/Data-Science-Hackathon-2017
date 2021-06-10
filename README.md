@@ -20,11 +20,13 @@ Participants:
 2. All answers to the selected questions were added (451429 replies)
 3. All comments for the selected questions and answers were added (617492 comments)
 
-Popular Tags timeline
-<img src="https://user-images.githubusercontent.com/82182857/121495199-18280580-c9e2-11eb-8082-52178dee99b0.jpg" width="607" height="450">
+##### Popular Tags timeline
 
-Popular Tags graph
-<img src="https://user-images.githubusercontent.com/82182857/121495367-3d1c7880-c9e2-11eb-824f-a55a6c987a7d.png" width="607" height="450">
+<img src="https://user-images.githubusercontent.com/82182857/121495199-18280580-c9e2-11eb-8082-52178dee99b0.jpg" width="807" height="450">
+
+##### Popular Tags graph
+
+<img src="https://user-images.githubusercontent.com/82182857/121495367-3d1c7880-c9e2-11eb-824f-a55a6c987a7d.png" width="807" height="450">
 
 ### Solution
 1. TF-IDF + PCA + HNSW for a quick search for similar questions
