@@ -31,7 +31,8 @@ Participants:
 
 ### Demo
 ![demo](https://user-images.githubusercontent.com/82182857/121495489-53c2cf80-c9e2-11eb-8158-f07ec7519572.png =607x450)
-<demo src="https://user-images.githubusercontent.com/82182857/121495489-53c2cf80-c9e2-11eb-8158-f07ec7519572.png" width="450" height="607">
+
+<img src="https://user-images.githubusercontent.com/82182857/121495489-53c2cf80-c9e2-11eb-8158-f07ec7519572.png" width="450" height="607">
 
 
 
