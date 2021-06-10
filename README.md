@@ -22,7 +22,7 @@ Participants:
 
 ![tags timeline](https://user-images.githubusercontent.com/82182857/121495199-18280580-c9e2-11eb-8082-52178dee99b0.jpg)
 
-![tags_graph](https://user-images.githubusercontent.com/82182857/121495367-3d1c7880-c9e2-11eb-824f-a55a6c987a7d.png)
+![tags_graph](https://user-images.githubusercontent.com/82182857/121495367-3d1c7880-c9e2-11eb-824f-a55a6c987a7d.png | width=100)
 
 ### Solution
 1. TF-IDF + PCA + HNSW for a quick search for similar questions
